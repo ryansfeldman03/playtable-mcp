@@ -1,0 +1,9 @@
+{
+  "name": "playtable-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Remote MCP server to make up any game and play it in chat with an AI agent or friends: board, card, dice and guessing games, with a fair table that deals, hides cards and rolls the dice.",
+  "homepage": "https://play.rowhousesoftware.com",
+  "author": "Rowhouse Software",
+  "license": "MIT"
+}
